@@ -1,7 +1,9 @@
 this is just for practice.
 
-<<<<<<< HEAD
+
 Hi i am Himanshu
-=======
+
 Hi i am akash
->>>>>>> 696b6a98c38b5fc3c7c63c6511b34fa932047fb0
+
+let me check again
+
